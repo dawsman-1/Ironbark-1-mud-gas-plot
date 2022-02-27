@@ -1,5 +1,5 @@
 # Ironbark-1-mud-gas-plot
-Visualisation of mud gas and other well data from the Ironbark-1 offshore exploration well drilled in the Dampier Sub-basin, Western Australia.
+Visualisation of mud gas and other well data from the Ironbark-1 exploration well drilled/ operated by BP Developments Australia Pty Ltd in the Dampier Sub-basin, offshore Western Australia.
 
 Plot has been created using the Plotly library, and are interactive (hover labels, zoom in/out, pan etc.)
 
