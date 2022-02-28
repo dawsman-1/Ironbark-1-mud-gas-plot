@@ -20,4 +20,12 @@ Interactive visualisation can be seen here: https://dawsman-1.github.io/Ironbark
 
 <br/>
 
+#### Preview:
+
 ![alt text](https://github.com/dawsman-1/Ironbark-1-mud-gas-plot/blob/main/Data/Ironbark-1_plot_for_readme.png?raw=true)
+
+<br/>
+
+#### Ironbark-1 well schematic <I>(Ironbark-1 Initial Well Completion Report, p10):</I>
+
+![alt text](https://github.com/dawsman-1/Ironbark-1-mud-gas-plot/blob/main/Data/Ironbark-1_well_schematic.png?raw=true)
