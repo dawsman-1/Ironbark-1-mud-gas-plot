@@ -12,6 +12,7 @@ Interactive visualisation can be seen here: https://dawsman-1.github.io/Ironbark
 * numpy
 * lasio
 * plotly
+* matplotlib
 
 ## Notes
 1. Formation names, top and base depths were obtained from a list of mud gas samples in the Ironbark-1 Compositional Analysis Report, and are based on Isotube sample depths which may not correspond exactly to actual formation top/ base depths.
